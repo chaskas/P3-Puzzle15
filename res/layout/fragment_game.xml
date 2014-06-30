@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/board"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="4"
+        android:orientation="vertical" >
+
+<!--         <LinearLayout -->
+<!--             android:layout_width="match_parent" -->
+<!--             android:layout_height="0dp" -->
+<!--             android:layout_weight="1" -->
+<!--             android:orientation="horizontal" > -->
+
+<!--             <TextView -->
+<!--                 android:id="@+id/TV1" -->
+<!--                 android:layout_width="0dp" -->
+<!--                 android:layout_height="match_parent" -->
+<!--                 android:layout_weight="1" -->
+<!--                 android:gravity="center" -->
+<!--                 android:text="1" /> -->
+
+<!--             <TextView -->
+<!--                 android:id="@+id/TV2" -->
+<!--                 android:layout_width="0dp" -->
+<!--                 android:layout_height="match_parent" -->
+<!--                 android:layout_weight="1" -->
+<!--                 android:gravity="center" -->
+<!--                 android:text="2" /> -->
+<!--             <TextView -->
+<!--                 android:id="@+id/TV3" -->
+<!--                 android:layout_width="0dp" -->
+<!--                 android:layout_height="match_parent" -->
+<!--                 android:layout_weight="1" -->
+<!--                 android:gravity="center" -->
+<!--                 android:text="3" /> -->
+<!--             <TextView -->
+<!--                 android:id="@+id/TV4" -->
+<!--                 android:layout_width="0dp" -->
+<!--                 android:layout_height="match_parent" -->
+<!--                 android:layout_weight="1" -->
+<!--                 android:gravity="center" -->
+<!--                 android:text="4" /> -->
+            
+
+<!--         </LinearLayout> -->
+
+<!--         <LinearLayout -->
+<!--             android:layout_width="match_parent" -->
+<!--             android:layout_height="0dp" -->
+<!--             android:layout_weight="1" -->
+<!--             android:orientation="horizontal" > -->
+            
+<!--             <TextView -->
+<!--                 android:id="@+id/TV5" -->
+<!--                 android:layout_width="0dp" -->
+<!--                 android:layout_height="match_parent" -->
+<!--                 android:layout_weight="1" -->
+<!--                 android:gravity="center" -->
+<!--                 android:text="5" /> -->
+<!--             <TextView -->
+<!--                 android:id="@+id/TV6" -->
+<!--                 android:layout_width="0dp" -->
+<!--                 android:layout_height="match_parent" -->
+<!--                 android:layout_weight="1" -->
+<!--                 android:gravity="center" -->
+<!--                 android:text="6" /> -->
+<!--             <TextView -->
+<!--                 android:id="@+id/TV7" -->
+<!--                 android:layout_width="0dp" -->
+<!--                 android:layout_height="match_parent" -->
+<!--                 android:layout_weight="1" -->
+<!--                 android:gravity="center" -->
+<!--                 android:text="7" /> -->
+<!--             <TextView -->
+<!--                 android:id="@+id/TV8" -->
+<!--                 android:layout_width="0dp" -->
+<!--                 android:layout_height="match_parent" -->
+<!--                 android:layout_weight="1" -->
+<!--                 android:gravity="center" -->
+<!--                 android:text="8" /> -->
+
+<!--         </LinearLayout> -->
+
+<!--         <LinearLayout -->
+<!--             android:layout_width="match_parent" -->
+<!--             android:layout_height="0dp" -->
+<!--             android:layout_weight="1" -->
+<!--             android:orientation="horizontal" > -->
+            
+<!--             <TextView -->
+<!--                 android:id="@+id/TV9" -->
+<!--                 android:layout_width="0dp" -->
+<!--                 android:layout_height="match_parent" -->
+<!--                 android:layout_weight="1" -->
+<!--                 android:gravity="center" -->
+<!--                 android:text="9" /> -->
+<!--             <TextView -->
+<!--                 android:id="@+id/TV10" -->
+<!--                 android:layout_width="0dp" -->
+<!--                 android:layout_height="match_parent" -->
+<!--                 android:layout_weight="1" -->
+<!--                 android:gravity="center" -->
+<!--                 android:text="10" /> -->
+<!--             <TextView -->
+<!--                 android:id="@+id/TV11" -->
+<!--                 android:layout_width="0dp" -->
+<!--                 android:layout_height="match_parent" -->
+<!--                 android:layout_weight="1" -->
+<!--                 android:gravity="center" -->
+<!--                 android:text="11" /> -->
+<!--             <TextView -->
+<!--                 android:id="@+id/TV12" -->
+<!--                 android:layout_width="0dp" -->
+<!--                 android:layout_height="match_parent" -->
+<!--                 android:layout_weight="1" -->
+<!--                 android:gravity="center" -->
+<!--                 android:text="12" /> -->
+
+<!--         </LinearLayout> -->
+
+<!--         <LinearLayout -->
+<!--             android:layout_width="match_parent" -->
+<!--             android:layout_height="0dp" -->
+<!--             android:layout_weight="1" -->
+<!--             android:orientation="horizontal" > -->
+            
+<!--             <TextView -->
+<!--                 android:id="@+id/TV13" -->
+<!--                 android:layout_width="0dp" -->
+<!--                 android:layout_height="match_parent" -->
+<!--                 android:layout_weight="1" -->
+<!--                 android:gravity="center" -->
+<!--                 android:text="13" /> -->
+<!--             <TextView -->
+<!--                 android:id="@+id/TV14" -->
+<!--                 android:layout_width="0dp" -->
+<!--                 android:layout_height="match_parent" -->
+<!--                 android:layout_weight="1" -->
+<!--                 android:gravity="center" -->
+<!--                 android:text="14" /> -->
+<!--             <TextView -->
+<!--                 android:id="@+id/TV15" -->
+<!--                 android:layout_width="0dp" -->
+<!--                 android:layout_height="match_parent" -->
+<!--                 android:layout_weight="1" -->
+<!--                 android:gravity="center" -->
+<!--                 android:text="15" /> -->
+<!--             <TextView -->
+<!--                 android:id="@+id/TV16" -->
+<!--                 android:layout_width="0dp" -->
+<!--                 android:layout_height="match_parent" -->
+<!--                 android:layout_weight="1" -->
+<!--                 android:gravity="center" -->
+<!--                 android:text="16" /> -->
+
+<!--         </LinearLayout> -->
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+    </LinearLayout>
+
+</LinearLayout>
